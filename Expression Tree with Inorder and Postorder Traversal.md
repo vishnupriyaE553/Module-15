@@ -5,16 +5,6 @@ To write a Python program to build the given expression tree and print the inord
 
 ---
 
-## EXPRESSION TREE STRUCTURE:
-
-    *
-   / \
-  +   -
- / \ / \
-9  3 8  4
-
----
-
 ## ALGORITHM:
 
 1. **Start the program.**
